@@ -1,0 +1,4 @@
+#!/bin/bash
+rot13() {
+	tr 'A-Za-z' 'N-Za-Mn_za-m'
+}
