@@ -1,4 +1,4 @@
 #!/bin/bash
-awk 'BEGIN {print "Best School"}' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+echo'Best School' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
 
 
